@@ -25,7 +25,7 @@ example of the results on my data: (different combinations of cluster coloring)
 <img width="602" alt="image" src="https://user-images.githubusercontent.com/60778119/150652419-d5255bac-7e42-450c-bd92-d8307e2e9c65.png">
 
 
-webcam clas output: (yea thats me)
+webcam class output: (yea thats me)
 
 
 ![image](https://user-images.githubusercontent.com/60778119/150652552-560cfb12-a2f8-4f24-b967-020769c48dd5.png)
